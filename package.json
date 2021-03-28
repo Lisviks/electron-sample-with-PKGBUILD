@@ -3,8 +3,18 @@
   "version": "1.0.0",
   "description": "electron sample",
   "main": "main.js",
-  "scripts": {},
+  "scripts": {
+    "make": "electron-forge make"
+  },
+  "config": {
+    "forge": "./forge.config.js"
+  },
   "keywords": [],
   "author": "Deividas Rimkus",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "@electron-forge/cli": "^6.0.0-beta.54",
+    "@electron-forge/maker-zip": "^6.0.0-beta.54",
+    "electron": "^12.0.2"
+  }
 }
