@@ -1,0 +1,10 @@
+{
+  "name": "electron-sample",
+  "version": "1.0.0",
+  "description": "electron sample",
+  "main": "main.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "Deividas Rimkus",
+  "license": "MIT"
+}
