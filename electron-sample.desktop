@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=Electron Sample
+Icon=electron
+Exec=/opt/electron-sample/electron-sample
+Categories=Development;GTK;
+StartupNotify=true
